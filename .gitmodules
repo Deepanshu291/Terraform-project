@@ -4,3 +4,7 @@
 [submodule "codeserver-AZ-VM"]
 	path = codeserver-AZ-VM
 	url = https://github.com/Deepanshu291/Azure-VM-tf.git
+
+[submodule "codeserver-docker"]
+	path = codeserver-docker
+	url = https://github.com/Deepanshu291/docker-terraform.git
