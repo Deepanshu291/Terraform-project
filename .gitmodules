@@ -1,0 +1,12 @@
+[submodule "codeserver-AZ-container"]
+	path = codeserver-AZ-container
+	url = https://github.com/Deepanshu291/terraform-codeserver-module.git
+[submodule "codeserver-AZ-VM"]
+	path = codeserver-AZ-VM
+	url = https://github.com/Deepanshu291/Azure-VM-tf.git
+[submodule "azureVM-tf"]
+	path = azureVM-tf
+	url = https://github.com/Deepanshu291/Azure-VM-tf.git
+[submodule "codeserver"]
+	path = codeserver
+	url = https://github.com/Deepanshu291/terraform-codeserver-module.git
